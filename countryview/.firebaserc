@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "countryview-dd0ce"
-  }
+    "default": "countryview-dd0ce",
+    "staging": "countryview-dd0ce"
+  },
+  "targets": {},
+  "etags": {}
 }
