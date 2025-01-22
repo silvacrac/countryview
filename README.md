@@ -68,11 +68,11 @@ xml para criação de documentos XML.
 
 Clone o repositório:
 
-**git clone <link-do-repositorio>**
+**git clone  git remote add origin https://github.com/silvacrac/countryview.git**
 
 Acesse a pasta do projeto:
 
-**cd nome-do-projeto**
+**cd countryview**
 
 Instale as dependências:
 
